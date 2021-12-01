@@ -1,2 +1,2 @@
 # site1_html5css3
-Primeira construção do site 
+Construção do meu primeiro site do zero, focando em um currículo online. 
